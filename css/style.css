@@ -1,5 +1,18 @@
+.displayScoreWrapper {
+    width: 560px;
+    height:75px;
+    border: solid 1px black;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.scoreDisplay {
+    font-size: 32px;    
+    line-height: 75px;
+}
+
 .grid {
-    background-color: blueviolet;
+    background-color: pink;
     width: 560px;
     height: 560px;
     display: flex;
